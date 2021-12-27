@@ -1,0 +1,25 @@
+@charset "utf-8";
+/*********************************************************************************************************
+ * MAIN
+*/
+
+
+body {
+    font-family: Georgia, Verdana, Helvetica, sans-serif;
+    font-size:16px;
+    color:#111111;
+    background: #EBE6DD;
+}
+
+h1 {
+    font-size: 40px;
+    color: #666666;
+    text-shadow: 1px 1px 0px #FFFFFF;
+    margin-bottom: 10px;    
+}
+
+footer {
+    color: #333;
+    text-align: right;
+}
+
